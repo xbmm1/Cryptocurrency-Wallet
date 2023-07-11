@@ -12,3 +12,7 @@ The core components of the program include the krypto_jobs.py file, which contai
 * Generation of secure digital wallets for Ethereum accounts
 * Real-time access to Ethereum account balances
 Secure signing and sending of cryptocurrency transactions
+
+
+
+![An image shows a wallet with bitcoin.](Images/localhost.png)
